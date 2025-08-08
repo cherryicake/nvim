@@ -1,0 +1,10 @@
+{
+    "diagnostics.disable": [
+        "missing-fields",
+        "undefined-doc-name",
+        "duplicate-set-field",
+        "inject-field",
+        "redundant-parameter",
+        "duplicate-index"
+    ]
+}
